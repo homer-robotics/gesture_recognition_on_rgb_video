@@ -2,7 +2,7 @@
 
 This implementation aims at performing human gesture recognition based solely on RGB videos. The underlying techniques used are **OpenPose** to extract the pose in each indivdual frame of the video and **Dynamic Time Warping** to perform the time-series classification. 
 
-The corresponding paper can be found on [https://arxiv.org/abs/1906.12171](https://arxiv.org/abs/1906.12171)
+The corresponding preprint can be found on [https://arxiv.org/abs/1906.12171](https://arxiv.org/abs/1906.12171)
 
 ### Dependencies:
 * You need OpenCV version **3.4.1** or newer. I tested it with version 3.4.3.
