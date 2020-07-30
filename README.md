@@ -19,10 +19,17 @@ The corresponding preprint can be found on [https://arxiv.org/abs/1906.12171](ht
 ### Citation
 
 ```
-@article{schneider2019gesture,
-  title={Gesture Recognition in RGB Videos Using Human Body Keypoints and Dynamic Time Warping},
-  author={Schneider, Pascal and Memmesheimer, Raphael and Kramer, Ivanna and Paulus, Dietrich},
-  journal={arXiv preprint arXiv:1906.12171},
-  year={2019}
-}
+@inproceedings{Schneider2019GRI, 
+   author = {Schneider, Pascal and Memmesheimer, Raphael and Kramer, Ivanna and Paulus, Dietrich}, 
+   title = {Gesture  Recognition  in  RGB  Videos  Using  Human Body Keypoints and Dynamic Time Warping}, 
+   year = {2019}, 
+   editor = {Chalup, Stephan and Niemueller, Tim and Suthakorn, Jackrit and Williams, Mary-Anne}, 
+   booktitle = {RoboCup 2019: Robot World Cup XXIII}, 
+   address = {Cham}, 
+   publisher = {Springer International Publishing}, 
+   pages = {281--293},  
+   doi = {10.1007/978-3-030-35699-6_22}, 
+   isbn = {978-3-030- 35699-6}, 
+ } 
+
 ```
