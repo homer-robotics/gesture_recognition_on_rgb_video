@@ -31,5 +31,4 @@ The corresponding preprint can be found on [https://arxiv.org/abs/1906.12171](ht
    doi = {10.1007/978-3-030-35699-6_22}, 
    isbn = {978-3-030- 35699-6}, 
  } 
-
 ```
